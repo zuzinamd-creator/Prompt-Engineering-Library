@@ -48,6 +48,3 @@
   "outreach_text": "Сгенерированный текст отклика",
   "status": "ready_to_send"
 }
-
-
-
