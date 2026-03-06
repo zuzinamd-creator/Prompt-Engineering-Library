@@ -40,15 +40,6 @@
 3. **Оценка ресурсов:** Срок на тестовое + бюджет на API.
 4. **Текст отклика:** Готовый блок для отправки.
 5. **JSON_для_отчета:**
-```json
-{
-  "date": "current_date",
-  "company": "Название компании",
-  "role": "Архетип",
-  "outreach_text": "Сгенерированный текст отклика",
-  "status": "ready_to_send"
-}
-
 ---
 
 ### 📂 INPUT DATA
@@ -59,3 +50,13 @@
 * **Стек и навыки:** {{candidate_stack}}
 * **Ключевой опыт:** {{candidate_experience}}
 * **Текст вакансии:** {{job_description}}
+```json
+{
+  "date": "current_date",
+  "company": "Название компании",
+  "role": "Архетип",
+  "outreach_text": "Сгенерированный текст отклика",
+  "status": "ready_to_send"
+}
+
+
